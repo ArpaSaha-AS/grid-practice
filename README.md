@@ -1,2 +1,2 @@
 # grid-practice
-Great repository names are short and memorable. Need inspiration? How about bookish-octo-telegram? 
+https://arpasaha-as.github.io/grid-practice/
